@@ -7,6 +7,10 @@ body {
   animation: gradientMove 12s ease infinite;
   color: white;
 }
+ .hero-content {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 
 /* Animated Gradient */
 @keyframes gradientMove {
